@@ -1,0 +1,5 @@
+discord.py==2.7.1
+aiosqlite
+aiohttp
+Flask
+yt-dlp
